@@ -1,0 +1,6 @@
+这是我目前先进行测试的工程。
+在生成vs工程之前要先在chrome.sln中加入对rivertrail的引用
+现在遇到一个问题。
+在js2c.py中生成的rivertrail-js.cc这个文件中
+提示我的Native类找不到。
+这个是按照i18n中的写，暂时不知道怎么解决。
